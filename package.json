@@ -1,0 +1,23 @@
+{
+  "name": "pdf-ocr-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^1.3.6",
+    "formidable": "^3.5.1",
+    "jszip": "^3.10.1",
+    "next": "^16.2.1",
+    "react": "18.3.0",
+    "react-dom": "18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "typescript": "^5"
+  }
+}

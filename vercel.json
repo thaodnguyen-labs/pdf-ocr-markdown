@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "functions": {
+    "pages/api/process.js": {
+      "maxDuration": 300,
+      "memory": 1024
+    }
+  }
+}
